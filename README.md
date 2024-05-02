@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is created to store the client-side of the [ListOfGroupService](https://github.com/vanzoneway/ListOfGroupService), written in Java Spring. I would like to thank [MarkOstapchuk](https://github.com/MarkOstapchuk) for their assistance in the implementation.
+
+# Images of client
+
+![main_page](src/img/main_page.png)
+![schedule_page](src/img/schedule_page.png)
+![employees_page](src/img/employees_page.png)
 
 ## Available Scripts
 
